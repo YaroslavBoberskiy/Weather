@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="btn_menu_refresh">Refresh</string>
+    <string name="error_fetch_weather_data">Error occured when fetching weather data</string>
+</resources>
